@@ -169,9 +169,6 @@ if ($actualizacion_exitosa) {
     </style>
 </head>
 <body>
-    <div class="volver-index">
-        <a href="index.php">Volver al Inicio</a>
-    </div>
     <h1>Modificar Datos de Mascota</h1>
 
     <?php if ($mensaje_error): ?>
